@@ -1,6 +1,7 @@
 ### Olá, eu sou o Abi Oliver, estudante de Análise e desenvolvimento de Sistema
   ##
-<div align="left">
+<div align="center">
+
   <a href="https://github.com/AbiOliver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbiOliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiOliver&layout=compact&langs_count=7&theme=dracula"/>
@@ -8,7 +9,7 @@
   
    ##
   
-<div align="left" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Abi-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Abi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Abi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
