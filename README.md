@@ -1,5 +1,4 @@
-### Olá, eu sou o AbiOliver 👋
-
+### Olá, eu sou o AbiOliver
 <!--
 - 🔭 Hoje, sou estudante de ADS - Fatec Carapicuíba
 - 🌱 Estudando JavaScript
