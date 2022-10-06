@@ -1,6 +1,6 @@
 ### Olá, eu sou o Abi Oliver, estudante de Análise e desenvolvimento de Sistema
   ##
-<div align="left">
+<div align="center">
 
   <a href="https://github.com/AbiOliver">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AbiOliver&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
