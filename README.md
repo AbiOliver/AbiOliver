@@ -25,3 +25,4 @@
 </div>
 
 📕- Estudando Java
+📕- Estudando JavaScript
